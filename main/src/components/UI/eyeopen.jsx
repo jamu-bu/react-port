@@ -21,7 +21,10 @@ function Eyelogo() {
     }
 
    return (
+    <div>
+        <h2 style={{color:"black"}}>click see the truth</h2>
         <img className='eye' src={eye} width={200} height={200} onClick={changeEye} />
+    </div>
     )
 }; 
 
