@@ -12,9 +12,11 @@ function Eyelogo() {
         if (value ===eyeclose){
             setEye(eyeopen);
             document.body.style.backgroundColor = "black";
+            document.getElementById('name').style.color="white";
         } else {
             setEye(eyeclose);
             document.body.style.backgroundColor = "white";
+            document.getElementById('name').style.color="black";
         }
     }
 

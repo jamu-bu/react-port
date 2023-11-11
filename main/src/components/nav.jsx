@@ -5,6 +5,7 @@ import PortfolioPage from "../pages/PortfolioPage";
 import AboutPage from "../pages/AboutPage";
 import ResumePage from "../pages/ResumePage";
 import Eyelogo from "./UI/eyeopen";
+import ContactPage from "../pages/ContactPage";
 
 export default function Nav() {
   // The Navbar UI component will render each of the Link elements in the links prop
@@ -22,11 +23,7 @@ export default function Nav() {
         <AboutPage/>
         <PortfolioPage/>
         <ResumePage/>
-        <div id="nav-container">
-          
-          
-          <div><a href="#contact"><h1 id="contact">CONTACT</h1></a></div>
-        </div>
+        <ContactPage/>
       
     </div>
   );
