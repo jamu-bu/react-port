@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+#name {
+  text-align: left;
+  margin-left: -20vw;
+}
+
+#nav-container {
+  position: relative;
+  width: 50vw;
+
+}
+.textion{
+  max-width: 50vw;
+
+}
