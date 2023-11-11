@@ -10,7 +10,6 @@ This is my personal portfolio built using React.js and Vite.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Customization](#customization)
 - [Deployment](#deployment)
 - [Built With](#built-with)
 - [License](#license)
@@ -18,7 +17,7 @@ This is my personal portfolio built using React.js and Vite.
 ## Demo
 
 A live demo of the portfolio is available at https://singular-beignet-7f2be8.netlify.app/
-(#).
+
 
 ## Features
 
@@ -42,10 +41,14 @@ Navigate to the project directory:
 
 Install dependencies:
 npm install
-Usage
+
+## Usage
 To start the development server, run:
 npm run dev
-Open http://localhost:5173 in your browser to view your portfolio.
+Open http://localhost:5173 in your browser to view the portfolio.
+![landing](./src/assets/landing.png "landing")
+![home](./src/assets/home.png "home")
+![about](./src/assets/about.png "about")
 
 ## Customization
 Feel free to customize the content, styles, and components to suit your preferences. Update the information in the src/data directory to reflect your own skills, projects, and contact details.
