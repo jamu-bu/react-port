@@ -1,7 +1,9 @@
 // Bringing in the required import from 'react-router-dom'
 //import { Link } from 'react-router-dom'
 
+import PortfolioPage from "../pages/PortfolioPage";
 import AboutPage from "../pages/AboutPage";
+import ResumePage from "../pages/ResumePage";
 import Eyelogo from "./UI/eyeopen";
 
 export default function Nav() {
@@ -18,10 +20,11 @@ export default function Nav() {
         </div>
         <div><Eyelogo/></div>
         <AboutPage/>
+        <PortfolioPage/>
+        <ResumePage/>
         <div id="nav-container">
           
-          <div><a href="#portfolio"><h1 id="port">PORTFOLIO</h1></a></div>
-          <div><a href="#resume"><h1 id="resume">RESUME</h1></a></div>
+          
           <div><a href="#contact"><h1 id="contact">CONTACT</h1></a></div>
         </div>
       
