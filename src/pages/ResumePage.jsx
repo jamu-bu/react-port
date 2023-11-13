@@ -74,7 +74,7 @@ export default function ResumePage() {
                     <h3 style={{color:"red"}}>BOSTON UNIVERSITY</h3>
                     <p>Bachelor of Arts in Psychology</p>
                     <h3 style={{color:"blue"}}>UCLA Extension Full Stack Development</h3>
-                    <p>Certfication</p>
+                    <p>Certification</p>
                     </ul>
                 </div>    
             </div> : null
