@@ -11,8 +11,12 @@ export default function AboutPage() {
         <div><a href="#about" onClick={() => setSection(!section)}><h1 id="about">ABOUT</h1></a></div>}
         { section ?
             <p className="textion">
-                Jamie is interested in UX/UI design. She would like to further pursue the Arts in a digital medium whether it be through design, research or the implemenation of 
-                front end elements. In her free time she enjoys going to Art Museums and creating 3D models in Blender. 
+                Jamie is a UX/UI Designer passionate about bringing brands to life through creative design. 
+                She has previously worked for University of Washington Bothell, University of Washington Seattle, 
+                and Boston University in office/administrative support roles. She is seeking to further her experience 
+                and education in Tech and possess a B.A. in Psychology from Boston University and a Full Stack Development 
+                Certificate from University of California Los Angeles Extension Bootcamp. In her free time she enjoys going 
+                to Art Museums and creating 3D models in Blender. 
             </p> : null
         }
       </div>

@@ -14,7 +14,7 @@ export default function ResumePage() {
                     <h2>Work Experience:</h2>
                     
                     <h4>University of Washington Bothell School of Science, Technology, Engineering & Mathematics</h4>
-                    (Oct - Nov 2023)
+                    (Oct - Dec 2023)
                     <h4>UX Graduate Project Assistant</h4>
                     <p>Helped maintain project documentation, including research findings, design iterations, and project 
                     timelines. Conduct literature reviews, competitive analyses, and user interviews to inform project decisions.
